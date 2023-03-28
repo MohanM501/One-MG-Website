@@ -2,7 +2,7 @@
 <p>
 This is a clone of Tata 1mg. Tata 1mg is a healthcare platform based in Gurugram, India. It provides services, including e-pharmacy, diagnostics, e-consultation and health content. It was founded in April 2015 by Prashant Tandon, Gaurav Agarwal and Vikas
 </p>
-<a href="https://my-app-mohanm501.vercel.app/"> Want to see live preview </a>
+<h2>Live preview :-</h2> <a href="https://my-app-mohanm501.vercel.app/">  https://my-app-mohanm501.vercel.app/ </a>
 
 </br>
 <h2> Home Screen </h2>
